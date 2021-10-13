@@ -1,5 +1,5 @@
-bind \cf 'fast_travel'
-bind \cq 'quick_draw'
+bind \cf 'quicker_fast_travel'
+bind \cq 'quicker_quick_draw'
 
 function quicker_fast_travel
   set target ( \
